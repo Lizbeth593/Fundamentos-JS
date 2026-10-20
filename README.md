@@ -1,5 +1,3 @@
-<img width="990" height="153" alt="image" src="https://github.com/user-attachments/assets/2aefdfe0-086c-4c1d-88f7-e9b88c2ab341" /><img width="990" height="837" alt="image" src="https://github.com/user-attachments/assets/c8a6aa60-dce0-4fe2-a743-fcbb260b4604" /><img width="990" height="703" alt="image" src="https://github.com/user-attachments/assets/97c3f17f-7d56-4bac-9c00-8d05b1f35877" /># 🚀 Laboratorio 3: Introducción a JavaScript
-
 Este repositorio contiene la resolución del **Laboratorio 3 - Introducción a JavaScript** para la asignatura de **Desarrollo de Aplicaciones Web** de la Escuela Politécnica Nacional (ESFOT).
 
 El objetivo principal de esta práctica es aplicar los conceptos fundamentales y avanzados de JavaScript (ES6+) interactuando con el DOM y consumiendo APIs externas mediante peticiones asíncronas, tomando como caso práctico un clon/buscador de productos inspirado en **Mercado Libre**.
@@ -47,13 +45,15 @@ Fundamentos-JS/
 ---
 
 ## 📋 Temas Desarrollados y Evidencias
+![Uploading image.png…]()
+
 
 ### 1. Fundamentos (Variables, Constantes y Tipos de Datos)
 Declaración de datos básicos del producto (`let`, `const`), tipos numéricos, booleanos y cadenas de texto.
 
 > **Captura de código / ejecución:**  
 <img width="777" height="586" alt="image" src="https://github.com/user-attachments/assets/7eb82a61-5284-499f-9a0f-23659b203e06" />
-> <img width="414" height="408" alt="image" src="https://github.com/user-attachments/assets/ef5d5766-2432-4f07-a069-2c5aa4fb54d7" />
+
 ---
 
 ### 2. Funciones
