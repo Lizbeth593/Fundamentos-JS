@@ -11,7 +11,7 @@ Este proyecto contiene ejercicios básicos de JavaScript utilizando productos de
 
 * Funciones: cálculo del precio de un producto con descuento.
 
-<img width="886" height="340" alt="image" src="https://github.com/user-attachments/assets/7ca8feb4-c9ba-48bf-98b4-d7517f3c8199" />
+ <img width="311" height="340" alt="image" src="https://github.com/user-attachments/assets/c9363916-ec2a-4b2a-9427-193d2ea19f8e" />
   
 
 * Objetos: almacenamiento de información de un producto.
