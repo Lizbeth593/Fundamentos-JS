@@ -45,8 +45,6 @@ Fundamentos-JS/
 ---
 
 ## 📋 Temas Desarrollados y Evidencias
-![Uploading image.png…]()
-
 
 ### 1. Fundamentos (Variables, Constantes y Tipos de Datos)
 Declaración de datos básicos del producto (`let`, `const`), tipos numéricos, booleanos y cadenas de texto.
